@@ -1,6 +1,6 @@
 Transform your body with *IronCore Fitness* – a modern gym website built with *Next.js*, *React Icons*, and *Tailwind CSS*. 
 
-Live site: ironcore-fitness.vercel.app
+Live site: [ironcore-fitness.vercel.app](https://ironcore-fitness.vercel.app/)
 
 ---
 
