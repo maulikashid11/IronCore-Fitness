@@ -52,9 +52,3 @@ Live site: [ironcore-fitness.vercel.app](https://ironcore-fitness.vercel.app/)
 /pages       → Next.js pages  
 /components  → Reusable UI components  
 /public      → Static assets  
-  
-```
-
-📄 License
-
-MIT License © 2025 IronCore Fitness
